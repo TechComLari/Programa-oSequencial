@@ -1,2 +1,2 @@
-# Programa-oSequencial
-Programação Sequencial - Atividade do bootcamp Generation
+# Programa-Sequencial
+Programação Sequencial - Atividade do bootcamp Generation Brasil
